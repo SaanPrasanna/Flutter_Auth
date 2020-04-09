@@ -1,6 +1,7 @@
-# flutter_auth
+# Flutter Authentication
 
-A new Flutter project.
+Basic Flutter Firebase Authentication
+.
 
 ## Getting Started
 
